@@ -31,7 +31,7 @@ This proposal introduces a mechanism allowing RON holders to express conviction 
 - Encourage long-term ecosystem participation.
 - Increase utility and demand for RON.
 - Provide an additional feedback signal beyond raw activity metrics.
-- Create a direct relationship between RON holders and ecosystem growth.
+- Enable RON holders to actively participate in ecosystem growth by supporting the builders they believe create long-term value.
 
 Beyond its impact on reward distribution, Community Conviction Score introduces a unique ecosystem primitive for Ronin.
 
@@ -107,7 +107,7 @@ The pilot SHALL:
 
 Following the pilot period, governance MAY:
 
-- Increase the weighting to 10%-20%.
+- Increase the weighting
 - Maintain the existing weighting.
 - Modify the scoring methodology.
 - Discontinue the feature.
@@ -122,7 +122,7 @@ Builder Score =
 5% Community Conviction Score
 ```
 
-Following successful evaluation, governance MAY increase the Community Conviction Score weighting to up to 20% of Builder Score.
+Following successful evaluation, governance MAY determine an appropriate long-term weighting for Community Conviction Score.
 
 ### Reward Distribution
 
@@ -213,7 +213,7 @@ Future governance decisions should monitor:
 
 ### Strengthened RON Utility
 
-Community Conviction Score introduces an additional utility for RON beyond staking, governance, and transaction fees. Users seeking to support builders and influence reward distribution must acquire and hold RON.
+Community Conviction Score introduces an additional utility for RON beyond governance, and transaction fees. Users seeking to support builders and influence reward distribution must acquire and hold RON.
 
 ### Positive Ecosystem Feedback Loop
 
@@ -231,14 +231,11 @@ Users acquire RON
 
 ### Increased Ecosystem Attractiveness
 
-Community Conviction Score creates a direct relationship between RON holders, builders, and ecosystem growth.
+Community Conviction Score enables RON holders to become active contributors to ecosystem growth by supporting the builders they believe are creating long-term value.
 
-Builders are incentivized not only to maximize activity metrics but also to cultivate engaged and committed communities. In turn, users gain a meaningful way to support projects they believe are creating long-term value for Ronin.
+This creates a stronger connection between builders, players, and token holders, aligning all three groups around the success of the ecosystem.
 
-This alignment encourages stronger builder-user relationships, increased community participation, and greater long-term commitment to the ecosystem.
+For builders, Community Conviction Score provides a new way to engage and grow their communities. For users, it provides a meaningful mechanism to support the projects they value most.
 
-As community-supported builders receive additional resources through PoD, they can reinvest into development, user acquisition, and player rewards, improving the overall quality and competitiveness of applications built on Ronin.
+As a result, Ronin can become one of the few gaming ecosystems where communities directly participate in directing builder incentives, making the ecosystem more attractive to both builders and users and strengthening long-term network effects.
 
-By creating a direct link between community participation and builder success, Community Conviction Score may increase the attractiveness of Ronin for both builders and users, strengthening network effects and supporting sustainable ecosystem growth over time.
-
-By creating a direct link between RON ownership, builder success, and ecosystem growth, Community Conviction Score aligns the interests of token holders, builders, and users around the long-term success of Ronin.
