@@ -4,7 +4,7 @@
 
 **REP:** X  
 **Title:** Community Conviction Score for Proof of Distribution  
-**Author:** Nova & Friends
+**Author:** Nova & Friends  
 **Status:** Draft  
 **Type:** Economic Incentive  
 **Created:** 2026-06-02
