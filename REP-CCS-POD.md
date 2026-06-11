@@ -15,6 +15,9 @@
 
 This proposal introduces a Community Conviction Score (CCS) as a new component of Ronin's Proof of Distribution (PoD) framework. CCS allows RON holders to delegate support to builders and applications they believe create long-term value for the ecosystem. The score contributes a limited portion of a builder's overall PoD score and distributes a portion of builder rewards according to community conviction rather than solely activity-based metrics. The objective is to complement existing usage metrics with a measure of community commitment and builder-user alignment.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f3ee82fa-83a9-4cde-a0f4-d54be7daf929" />
+
+
 ---
 
 ## Rationale
